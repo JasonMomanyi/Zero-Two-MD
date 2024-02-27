@@ -16,5 +16,5 @@ ANTI_LINK: process.env.ANTI_LINK || 'false' ,
 ANTI_BOT: process.env.ANTI_BOT || 'false',
 ALIVE: process.env.ALIVE || `default`,
 FOOTER: process.env.FOOTER ||  '©𝚉𝙴𝚁𝙾-𝚃𝚆𝙾 𝙼𝙳',
-LOGO: process.env.LOGO || `https://github.com/vihangayt0/ZeroTwo-Uploads/blob/main/ZERO-TWO.png?raw=true` 
+LOGO: process.env.LOGO || `https://telegra.ph/file/4f5eb47c4211fd637ebe0.png?raw=true` 
 };
